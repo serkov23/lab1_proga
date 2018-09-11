@@ -1,31 +1,30 @@
-﻿  stdafx.cpp
-  stream.cpp
+﻿  WindowsProject1.cpp
 c:\users\serko\source\repos\windowsproject1\windowsproject1\stream.h(2): warning C4005: UNICODE: изменение макроопределения
   c:\users\serko\source\repos\windowsproject1\windowsproject1\stdafx.cpp: note: см. предыдущее определение "UNICODE"
-  WindowsProject1.cpp
-c:\users\serko\source\repos\windowsproject1\windowsproject1\stream.h(2): warning C4005: UNICODE: изменение макроопределения
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\stdafx.cpp: note: см. предыдущее определение "UNICODE"
-c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(270): warning C4018: <: несоответствие типов со знаком и без знака
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(264): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(269): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(263): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
   c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(120): note: выполняется компиляция ссылки на экземпляр шаблон функции "KDeque<double,2> &KDeque<double,2>::operator =(const KDeque<double,2> &)"
   c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(28): note: выполняется компиляция ссылки на экземпляр шаблон класс "KDeque<double,2>"
-c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(382): warning C4018: <: несоответствие типов со знаком и без знака
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(381): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(381): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(380): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
   c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(68): note: выполняется компиляция ссылки на экземпляр шаблон функции "void KDeque<double,2>::pop_front(void)"
-c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(399): warning C4018: <: несоответствие типов со знаком и без знака
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(396): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(398): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(395): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
   c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(124): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool KDeque<double,2>::operator ==(const KDeque<double,2> &) const"
-c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(448): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(447): warning C4018: <: несоответствие типов со знаком и без знака
   c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(49): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &operator >><double,2>(std::istream &,KDeque<double,2> &)"
 c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(23): warning C4018: >=: несоответствие типов со знаком и без знака
   c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(103): note: выполняется компиляция ссылки на экземпляр шаблон функции "void modify<double,2>(KDeque<double,2> &,KIstream &,HWND,int)"
-c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(319): warning C4018: <: несоответствие типов со знаком и без знака
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(310): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(438): note: выполняется компиляция ссылки на экземпляр шаблон функции "void KDeque<double,2>::grow(void)"
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(199): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(318): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(309): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(437): note: выполняется компиляция ссылки на экземпляр шаблон функции "void KDeque<double,2>::grow(void)"
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(198): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
   c:\users\serko\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(28): note: выполняется компиляция ссылки на экземпляр шаблон функции "KDeque<double,2>::KDeque(void)"
-c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(336): warning C4018: <: несоответствие типов со знаком и без знака
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(330): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
-  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(369): note: выполняется компиляция ссылки на экземпляр шаблон функции "void KDeque<double,2>::lower(void)"
+c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(335): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(329): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\kdeque.h(368): note: выполняется компиляция ссылки на экземпляр шаблон функции "void KDeque<double,2>::lower(void)"
+  stream.cpp
+c:\users\serko\source\repos\windowsproject1\windowsproject1\stream.h(2): warning C4005: UNICODE: изменение макроопределения
+  c:\users\serko\source\repos\windowsproject1\windowsproject1\stdafx.cpp: note: см. предыдущее определение "UNICODE"
   Создание кода...
   WindowsProject1.vcxproj -> C:\Users\serko\source\repos\WindowsProject1\Debug\WindowsProject1.exe

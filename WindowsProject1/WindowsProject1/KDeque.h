@@ -12,7 +12,6 @@ class KIterator;
 template<class T, size_t grow_const = 2>
 class KDeque {
 public:
-	typedef unsigned int size_t;
 
 	friend class KIterator<T>;
 
@@ -456,7 +455,7 @@ std::istream& operator>>(std::istream& in, KDeque<T, grow_const>& deq) {
 template<class T, size_t grow_const>
 std::ostream& operator<<(std::ostream& out, KDeque<T, grow_const>& deq) {
 	for (auto i : deq) {
-		out << i<<' ';
+		out << i << ' ';
 	}
 	out << '\n';
 	return out;
